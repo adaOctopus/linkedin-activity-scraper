@@ -19,3 +19,10 @@ This is a python script that logs into your Linkedin account, and downloads your
 5. Maximizes the window
 6. Then it visits the pages for posts and comments
 7. Downloads everything in html format.
+
+
+### New Script for messaging
+
+1. Visits users profiles
+2. Clicks message button
+3. Send private message
